@@ -1,0 +1,13 @@
+__kernel void mat_mul( __global const float *A, __global const float *B, __global float *C, const int N, const int I)
+{
+	int i = get_global_id(0);
+	int j = get_global_id(1);
+
+	int k = 0;
+	float acm = 0.0;
+
+	for(k=0;k<I;k++)
+		acm += *(A + j*N + k) * *(B + k*N + i);
+
+	*(C + j*N + i) = acm;
+}

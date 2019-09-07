@@ -1,0 +1,163 @@
+Thread: 4, Matrix Size: 16 * 16
+
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000162 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000497 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000181 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000393 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000373 sec
+
+Thread : 4, Matrix Size: 32 * 32
+
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000209 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000325 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000333 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000153 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000355 sec
+
+Thread : 4, Matrix Size: 64 * 64
+
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000280 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000449 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000542 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000242 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000319 sec
+
+Thread : 4, Matrix Size: 128 * 128
+
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000985 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.001438 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000949 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.001730 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.000918 sec
+
+
+Thread : 4, Matrix Size: 256 * 256
+
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.011610 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.006861 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.006649 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.006679 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.006785 sec
+
+
+Thread : 4, Matrix Size: 512 * 512
+
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.030796 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.030427 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.052778 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.031694 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.052085 sec
+
+Thread : 4, Matrix Size: 1024 * 1024
+
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.213364 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.212522 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.209417 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.185154 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 0.189504 sec
+
+Thread : 4, Matrix Size: 2048 * 2048
+
+Calculating... done!
+Validation is skipped.
+Elapsed time: 1.272274 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 1.233829 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 1.262115 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 1.224738 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 1.251251 sec
+
+Thread : 4, Matrix Size: 4096 * 4096
+
+Calculating... done!
+Validation is skipped.
+Elapsed time: 11.582368 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 11.370560 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 11.578078 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 11.398134 sec
+Calculating... done!
+Validation is skipped.
+Elapsed time: 11.593000 sec
